@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Local data
+backend/agentos.db
+backend/data/
+*.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env and editor
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Reports generated locally
+_page*.png
+__pycache__/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv312/
+*.egg-info/
+.pytest_cache/
+tools/
+HOW_TO_RUN.txt
+PROJECT_COVERAGE.txt
+docs/
+
+
+
